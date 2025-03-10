@@ -1,10 +1,6 @@
-# Hello👋, I'm Shahaan
+# Hello, I'm Shahaan
 
-👨‍💻 Software Dev | 🎓 CS grad
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=32CD32&width=435&lines=Hold+my+code...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&repeat=false&color=32CD32&width=435&lines=Hold+my+code...)](https://git.io/typing-svg)
 
 ## About Me
 
